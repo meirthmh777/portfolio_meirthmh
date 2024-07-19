@@ -6,6 +6,9 @@ My name is Meirth Maulida Hartanti you can call me Mei. I am a dedicated profess
 
 ## Portfolio Project Folder Structure
 
+Here is my VSC folder structure:
+
+```
 ├── node_modules
 ├── public
 ├── src
@@ -40,3 +43,6 @@ My name is Meirth Maulida Hartanti you can call me Mei. I am a dedicated profess
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+```
+
+### Code by MeirthMH 💃🏻🌹
