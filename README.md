@@ -1,12 +1,12 @@
 # Welcome to Mei's Frontend Portfolio 🌕
 
-Hello universe!
+Hello Universe!
 
-My name is Meirth Maulida Hartanti you can call me Mei. I am a dedicated professional civil engineer and passionate software engineer field especially in frontend and backend coding. This portfolio is a snapshot of my journey, showcasing my experiences, skills, and projects from both fields. I hope you find it as exciting as I do!
+My name is Meirth Maulida Hartanti you can call me Mei. I am a dedicated professional civil engineer and passionate in software engineer field especially in frontend and backend coding. This portfolio is a snapshot of my journey, showcasing my experiences, skills, and projects from both fields. I hope you find it as exciting as I do!
 
-## Portfolio Project Folder Structure
+## Frontend Portfolio Project Folder Structure
 
-Here is my VSC folder structure:
+Here is my VSC frontend folder structure:
 
 ```
 ├── node_modules
@@ -45,4 +45,4 @@ Here is my VSC folder structure:
 └── vite.config.js
 ```
 
-### Code by MeirthMH 💃🏻🌹
+### Frontend Code by MeirthMH 💃🏻🌹
