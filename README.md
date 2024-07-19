@@ -1,8 +1,42 @@
-# React + Vite
+# Welcome to Mei's Frontend Portfolio 🌕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello universe!
 
-Currently, two official plugins are available:
+My name is Meirth Maulida Hartanti you can call me Mei. I am a dedicated professional civil engineer and passionate software engineer field especially in frontend and backend coding. This portfolio is a snapshot of my journey, showcasing my experiences, skills, and projects from both fields. I hope you find it as exciting as I do!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Portfolio Project Folder Structure
+
+├── node_modules
+├── public
+├── src
+│ ├── assets
+│ ├── common
+│ │ ├── xxxxxxxxxxxx
+│ │ ├── xxxxxxxxxxxx
+│ │ └── xxxxxxxxxxxx
+│ ├── components
+│ │ ├── xxxxxxxxxxxx
+│ │ └── xxxxxxxxxxxx
+│ ├── layout
+│ │ ├── xxxxxxxxxxxx
+│ │ └── xxxxxxxxxxxx
+│ ├── libs
+│ │ └── api
+│ ├── pages
+│ │ ├── about
+│ │ ├── civilEngineer
+│ │ ├── home
+│ │ └── softwareEngineer
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── .eslintrc.cjs
+├── .gitignore
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
